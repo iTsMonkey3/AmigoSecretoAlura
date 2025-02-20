@@ -1,4 +1,4 @@
-# Sorteador de Amigos
+# Amigo secreto challenge
 
 Este es un proyecto simple que permite ingresar los nombres de tus amigos, presionar un botón y seleccionar uno de forma aleatoria.
 
