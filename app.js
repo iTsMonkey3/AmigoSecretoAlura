@@ -46,3 +46,14 @@ function sortearAmigo() {
     }
     return;
 }
+
+function reiniciarLista(){
+    amigos = [];
+    limpiarCaja();
+    document.getElementById("resultado").innerHTML = "";
+    document.getElementById('listaAmigos').innerHTML = ""
+
+    return;
+}
+
+//Agregar el boton para limpiar lista y tambien agregar una animacion cuando se esté generando el amigo random
