@@ -57,3 +57,27 @@ function reiniciarLista(){
 }
 
 //Agregar el boton para limpiar lista y tambien agregar una animacion cuando se esté generando el amigo random
+
+//Prueba de una funcion extra al programa
+
+// function permutacion(numeros) {
+
+//     let numeroFaltante = 0;
+    
+//     for(let i=0; i < numeros.length; i++){
+//         if (numeros[i] + 1 != numeros[i+1]) {
+//             numeroFaltante = numeros[i];
+//             do{
+//                 numeroFaltante++;
+//                 console.log("a");
+//             }while(numeroFaltante != numeros[i] + 1);
+            
+//             numeroFaltante = numeroFaltante - 2;
+//         }
+//     }
+//     console.log(numeroFaltante);
+//     return;
+
+// }
+
+// permutacion([1,2,3,12,100]);
