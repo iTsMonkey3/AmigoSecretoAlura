@@ -19,7 +19,7 @@ Este es un proyecto simple que permite ingresar los nombres de tus amigos, presi
 2. Presiona el botón "Sortear".
 3. Se mostrará el nombre del amigo seleccionado al azar en la pantalla.
 
-Ejemplo:
+## Ejemplo de uso
 
 ![image](https://github.com/user-attachments/assets/cac81fb1-02e3-4097-a104-5902fc1c7208)
 
